@@ -7,12 +7,11 @@ I am currently a second-year undergraduate student majoring in **Intelligent Sci
 I am a member of the **General Embodied Intelligence Center** (通用具身智能中心), supervised by [Prof. Xiaodan Liang](https://lemondan.github.io/). My current research focuses on **Embodied AI** and **Humanoid Robots**, specifically bridging the gap between high-level semantic understanding (VLM/VLA) and low-level whole-body control (MPC/WBC).
 
 #### Email
-`3365768302@qq.com`
-
+`yangky29@mail2.sysu.edu.cn`
 
 #### Education
 **Sun Yat-sen University (SYSU)**, Shenzhen, China <br>
-*Bachelor of Engineering in Intelligent Science and Technology* (Sept. 2024 – Present)
+*Candidate for B.Eng. in Intelligent Science and Technology* (Sept. 2024 – Present)
 • **GPA**: XX/5.0 (Top 5%)
 • **Awards**:
     • Project Leader, Provincial-level Innovation Training Program ("Research on Whole-Body Collaborative Control and Task Understanding for Humanoid Robots Based on Embodied Intelligence") [2025]
